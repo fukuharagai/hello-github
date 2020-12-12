@@ -4,4 +4,4 @@ aiueo
 kakikukeko
 test2
 kie changed
-もういっかいコンフリクト
+練習
