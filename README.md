@@ -4,3 +4,4 @@ aiueo
 kakikukeko
 test2
 kie changed
+コンフリクト
